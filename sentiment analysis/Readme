@@ -1,0 +1,8 @@
+Sentiment Analysis en R
+Este proyecto esta basado en la propuesta de ejercicio de Data Flair, en concreto, "Sentiment Analysis Project in R", donde se utiliza el dataset "janeaustenr". Se construye el modelo a partir de "the bing lexicon model", el cual clasifica la emoción de forma binaria, es decir, en positivo o negativo.
+
+Se emplean dos obras de Jane Austen:
+ Sentido y senbilidad 
+ Emma
+ 
+ Fuente: https://data-flair.training/blogs/data-science-r-sentiment-analysis-project/
